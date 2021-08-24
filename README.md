@@ -1,1 +1,1 @@
-`NodeJS Microservice sample application using RabbitMQ.`
+Two server communication using Node-js and Rabbit MQ!!
